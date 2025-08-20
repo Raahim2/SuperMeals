@@ -7,7 +7,7 @@
 </a>
 <h4 align="center">Supermeals – A recipe suggestion app with a modern UI. Users can enter ingredients they have, and the app suggests possible recipes to cook.</h4>
 
-![Build](https://img.shields.io/github/actions/workflow/status/<your-username>/<repo-name>/ci.yml?branch=main)  
+ 
 ![Expo](https://img.shields.io/badge/Expo-managed--workflow-blue.svg)  
 ![React Native](https://img.shields.io/badge/React%20Native-0.7x-blueviolet)  
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-green)  
@@ -34,7 +34,7 @@
    alt="essentials" width="120" style="margin:10px"/>
   <img src="assets/Icons/sweets.png" alt="Sweets" width="120" style="margin:10px"/>
   <img src="assets/Icons/proteins.png" alt="proteins" width="120" style="margin:10px"/>
-  <img src="assets/Icons/Vegetables.png" alt="Vegetables" width="120" style="margin:10px"/>
+  <img src="assets/Icons/vegetables.png" alt="Vegetables" width="120" style="margin:10px"/>
 
 </p>
 
